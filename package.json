@@ -1,0 +1,22 @@
+{
+  "name": "csvtojson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "csvToJson.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewMorrow/csvToJson.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndrewMorrow/csvToJson/issues"
+  },
+  "homepage": "https://github.com/AndrewMorrow/csvToJson#readme",
+  "dependencies": {
+    "csvtojson": "^2.0.10"
+  }
+}
